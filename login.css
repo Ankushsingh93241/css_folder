@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+}
+.container{
+    margin: 12px auto 20px  auto;
+    border: 2px solid  rgb(211, 211, 211);
+    width: 300px;
+    border-radius: 8px;
+    
+}
+h2{
+    margin: 16px 24px;
+    font-weight: 700;
+}
+ .email{
+   margin:1px 24px;
+} 
+input{
+    width: 96%;
+    padding: 7px;
+  border: 1px solid #666;
+  border-radius: 3px;
+  margin: 5px 0px 15px 0px;
+}
+label{
+    font-weight: bold;
+    font-size: 14px;
+  
+}
+input:hover{
+    outline: 4px solid skyblue;
+    border-radius: 2px;
+    border-color: rgb(62, 62, 255);
+}
+
+button{
+    background-color:  #fc9c1f;
+    width: 80%;
+    margin-left: 26px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 5px;
+    
+}
+.new{
+    text-align: center;
+    margin-bottom: 12px;
+    font-size: 12px;
+   
+    font-family:'Arial' ,"sans-serif";
+}
+
+span{
+    color: rgb(0, 102,192);
+}
+p{
+    margin-left:26px ;
+    margin-top: 16px;
+    margin-right: 29px;
+    font-size: 12px;
+   
+    font-family:'Arial' ,"sans-serif";
+}
+.logo{
+
+    background-image: url("image/amazon.jpg");
+    background-size: cover;
+    height: 55px;
+   
+    width: 100%;
+    
+  
+}
+h4{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+.nav-logo{
+    height: 55px;
+    width: 110px;
+    color: black;
+    margin: 1px auto;
+}
+.help{
+    margin: 20px 24px;
+    font-size: 13px;
+    
+}
+hr{
+    width: 82%;
+    margin: auto;
+}
+#a{
+    text-decoration: none;
+    color: rgb(0, 102,192);
+}
+i{
+    color:black;
+  
+}
+h5{
+    color: rgb(0, 102,192);
+    margin-left:24px;
+    margin-bottom: 15px;
+    font-family:'Arial' ,"sans-serif";
+    font-size: 12px;
+    font-weight: lighter;
+}
+.main
+{
+  
+    width:320px;
+    margin :0px auto
+}
+#login{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #666;
+    border-radius: 5px;
+   display: block;
+   width: 300px;
+   margin-left: 8px;
+}
+#login:hover{
+    outline: 4px solid skyblue;
+    border-radius: 2px;
+    border-color: rgb(62, 62, 255);  
+}
